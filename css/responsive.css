@@ -1,0 +1,394 @@
+/* This CSS for small Mobile*/
+@media only screen and (max-width: 767px){
+.container{width:100%;
+}
+.slim_m{
+display:block;
+}
+.mainmenu{
+display:none;
+}
+.right_corner_top img{
+margin-left:29px;
+margin-top:10px;
+width:152px;
+}
+div.proco_area_a .proco_area .pricing_table .sinle_pricing_table ul li i.fa{
+float:none;
+}
+.menu-collapser{
+font-size:16px;
+width:100%;
+}
+.menu-collapser{
+background-color:#1E6AD1;
+}
+.logo, .info,.content_top_left,.right_video,.single_content_top_left img,.single_content_middle,.left_footer_top,.sitemap,.contact_us,.follow_us,.single_content_bottom_content,.seen_tv{
+float:none;
+text-align:center;
+}
+.content_top_left,.right_video,.single_content_middle,.left_footer_top,.sitemap,.single_content_bottom_content,.single_content_bottom{
+width:100%;
+}
+.single_content_middle,.contact_us,.follow_us,.single_content_bottom_content{
+margin-left:0;
+}
+.content_middle{
+margin-left:0;
+}
+.single_content_bottom h2{
+width:100%;
+}
+.single_content_bottom{
+width:100%;
+}
+.single_content_bottom{
+height:538px;
+}
+.right_corner_top{
+text-align:center;
+width:100%;
+}
+.right_corner_top img{
+margin-left:29px;
+margin-top:10px;
+width:150px;
+}
+.single_content_middle{
+padding:5px;
+}
+.content_middle{
+margin:17px;
+}
+.single_content_bottom_content{
+padding:0;
+}
+.contact_us{
+margin-right:0;
+width:100%;
+}
+.single_content_bottom_content{
+margin-right:0;
+}
+.single_content_bottom{
+margin:-3px;
+margin-bottom:0;
+padding-right:0;
+}
+div.how_it_work_promo .single_how_it_work{
+width:100%;
+}
+div.how_it_work_promo .single_how_it_work .single_work_margn{
+margin:10px;
+padding-bottom:10px;
+}
+.follow_us ul li a i.fa{
+font-size:17px;
+}
+div.proco_area_a .proco_area .pricing_table .pricing_left_table{
+border:3px solid #CFCFCF;
+/*border-radius*/
+-webkit-border-radius:8px 8px 8px 8px;
+   -moz-border-radius:8px 8px 8px 8px;
+        border-radius:8px 8px 8px 8px;
+padding:25px;
+width:100%;
+float:none;
+}
+div.proco_area_a .proco_area .pricing_table .pricing_right_table{
+border:3px solid #CFCFCF;
+/*border-radius*/
+-webkit-border-radius:8px 8px 8px 8px;
+   -moz-border-radius:8px 8px 8px 8px;
+        border-radius:8px 8px 8px 8px;
+margin-right:36px;
+padding:25px;
+width:100%;
+float:none;
+}
+.proco_area{
+margin-top:-1236px;
+width:100%;
+}
+div.proco_area_a .proco_area{
+width:100%;
+}
+div.proco_area_a .proco_area .pricing_table{
+padding-left:0;
+}
+div.proco_area_a .proco_area .pricing_table .pricing_right_table{
+border:0px solid #CFCFCF;
+/*border-radius*/
+-webkit-border-radius:8px 8px 8px 8px;
+   -moz-border-radius:8px 8px 8px 8px;
+        border-radius:8px 8px 8px 8px;
+float:none;
+margin-right:0;
+padding:0;
+width:100%;
+}
+div.proco_area_a .proco_area .pricing_table .pricing_left_table{
+border:0px solid #CFCFCF;
+/*border-radius*/
+-webkit-border-radius:8px 8px 8px 8px;
+   -moz-border-radius:8px 8px 8px 8px;
+        border-radius:8px 8px 8px 8px;
+float:none;
+padding:0;
+width:100%;
+}
+.heding_proco{
+width:40%;
+}
+div.proco_area_a .proco_area{
+height: auto;
+padding-bottom: 20px;
+}
+.left_footer_top{
+margin-right:0;
+width:100%;
+}
+.follow_us{
+width:100%;
+}
+.l_single_seller{
+float:none;
+width:100%;
+}
+div.proco_area_a .proco_area .pricing_table .sinle_pricing_table ul li i.fa{
+border-right:1px solid #DDDDDD;
+color:#6EC779;
+display:block;
+float:none;
+font-size:18px;
+padding:13px;
+text-align:center;
+}
+.navi{
+color:#888888;
+display:block;
+font-size:13px;
+line-height:22px;
+padding-left:0;
+text-align:center;
+}
+.proco_area{
+background:none repeat scroll 0 0 #FFFFFF;
+margin-top:-1236px;
+position:relative;
+width:1170px;
+}
+.pricing_footer_top {
+  margin-top: 0px;
+}
+}
+
+
+
+/* This CSS for Tablet */
+@media (min-width: 768px){
+.container{width:750px;
+}
+.slim_m{
+display:none;
+}
+. mainmenu{
+display:block;
+}
+.mainmenu ul li a{
+font-size:12px;
+padding:19px 4px;
+}
+.right_corner_top img{
+margin-left:29px;
+margin-top:10px;
+width:86px;
+}
+.single_content_bottom_content{
+float:left;
+margin-right:10px;
+padding:20px;
+width:227px;
+}
+.left_footer_top{
+margin-right:40px;
+width:160px;
+}
+.sitemap{
+width:160px;
+}
+.contact_us{
+margin-right:15px;
+width:130px;
+}
+.follow_us{
+width:243px;
+}
+div.how_it_work_promo .single_how_it_work{
+width:245px;
+}
+div.how_it_work_promo .single_how_it_work h2{
+padding:9px 11px;
+width:130px;
+}
+div.proco_area_a .proco_area{
+height:750px;
+}
+.proco_area{
+margin-top:-1236px;
+width:750px;
+}
+div.proco_area_a .proco_area{
+height:1154px;
+}
+div.proco_area_a .proco_area .pricing_table .pricing_left_table{
+width:35%;
+}
+div.proco_area_a .proco_area .pricing_table .sinle_pricing_table ul li i.fa{
+float:left;
+}
+.pricing_footer_top {
+  margin-top: 0px;
+}
+}
+
+/* This CSS for Medium Devices */
+@media (min-width: 992px){
+.container{width:980px;
+}
+.mainmenu ul li a{
+padding:19px 10px;
+font-size:13px;
+}
+.slim_m{
+display:none;
+}
+. mainmenu{
+display:block;
+}
+.right_corner_top img{
+margin-left:29px;
+margin-top:10px;
+width:120px;
+}
+.single_content_bottom_content{
+float:left;
+margin-right:10px;
+padding:20px;
+width:303px;
+}
+.left_footer_top{
+margin-right:50px;
+width:210px;
+}
+.sitemap{
+width:210px;
+}
+.contact_us{
+margin-right:20px;
+width:210px;
+}
+.follow_us{
+width:258px;
+}
+div.how_it_work_promo .single_how_it_work{
+width:321px;
+}
+div.how_it_work_promo .single_how_it_work h2{
+padding: 6px 8px;
+width: 116px;
+}
+div.proco_area_a .proco_area{
+height:980px;
+}
+.proco_area{
+margin-top:-1236px;
+width:980px;
+}
+div.proco_area_a .proco_area{
+height: 1167px;
+overflow: hidden;
+}
+div.proco_area_a .proco_area .pricing_table .pricing_left_table{
+width:42%;
+}
+div.proco_area_a .proco_area .pricing_table .sinle_pricing_table ul li i.fa{
+float:none;
+}
+.pricing_footer_top {
+margin-top: 910px;
+}
+}
+
+/* This CSS for Large Devices */
+@media (min-width: 1200px){
+.container{width:1170px;
+}
+.mainmenu ul li a{
+padding:19px 16px;
+font-size:13px;
+}
+.slim_m{
+display:none;
+}
+. mainmenu{
+display:block;
+}
+.right_corner_top img{
+margin-left:29px;
+margin-top:10px;
+width:152px;
+}
+.single_content_bottom_content{
+float:left;
+margin-right:10px;
+padding:20px;
+width:373px;
+}
+.single_content_bottom_content{
+float:left;
+margin-right:10px;
+padding:20px;
+width:373px;
+}
+.left_footer_top{
+margin-right:70px;
+width:400px;
+}
+.sitemap{
+width:210px;
+}
+.contact_us{
+margin-right:20px;
+width:210px;
+}
+.follow_us{
+width:258px;
+}
+div.how_it_work_promo .single_how_it_work{
+width:385px;
+}
+div.how_it_work_promo .single_how_it_work h2{
+padding: 11px 16px;
+width: 115px;
+}
+div.proco_area_a .proco_area{
+height:1170px;
+}
+.proco_area{
+margin-top:-1236px;
+width:1170px;
+}
+div.proco_area_a .proco_area{
+height: 1190px;
+}
+div.proco_area_a .proco_area .pricing_table .pricing_left_table{
+width:42%;
+}
+div.proco_area_a .proco_area .pricing_table .sinle_pricing_table ul li i.fa{
+float:none;
+}
+.pricing_footer_top {
+  margin-top: 0px;
+}
+}
